@@ -19,7 +19,6 @@ Klass also has a appendMember method which receive a Student instance to add a  
 If a student is not in the Klass, then assignLeader to the student will fail and return:
 
 >It is not one of us.
-
 and if so, the method introduce of Student should just bahave like before.
 
 Then create class Teacher to inherit class Person. There are fields id, name, age, classes and a method named introduce in class Teacher. Method introduce should return string like this:
